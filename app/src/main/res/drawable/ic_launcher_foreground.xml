@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- soft shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M25,74L77,74C83,74 88,79 88,85L88,86C88,91 84,95 79,95L29,95C24,95 20,91 20,86L20,85C20,79 19,74 25,74z" />
+
+    <!-- printed photo coming out of the pocket printer -->
+    <path
+        android:fillColor="#FFFDF8"
+        android:pathData="M33,20L75,20C78,20 80,22 80,25L80,73L28,73L28,25C28,22 30,20 33,20z" />
+    <path
+        android:fillColor="#32D6C9"
+        android:pathData="M33,25L75,25L75,51L33,51z" />
+    <path
+        android:fillColor="#8C7CFF"
+        android:pathData="M33,51L75,51L75,68L33,68z" />
+    <path
+        android:fillColor="#FFCA4F"
+        android:pathData="M33,55L45,43L55,53L62,46L75,61L75,68L33,68z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"
+        android:pathData="M64,31m-5,0a5,5 0,1 0,10 0a5,5 0,1 0,-10 0" />
+
+    <!-- printer body: small rounded instant-photo printer silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,58L84,58C89,58 93,62 93,67L93,82C93,87 89,91 84,91L24,91C19,91 15,87 15,82L15,67C15,62 19,58 24,58z" />
+    <path
+        android:fillColor="#DDE4F0"
+        android:pathData="M23,64L85,64C87,64 89,66 89,68L89,78C89,80 87,82 85,82L23,82C21,82 19,80 19,78L19,68C19,66 21,64 23,64z" />
+    <path
+        android:fillColor="#222B45"
+        android:pathData="M29,70L69,70C71,70 72,71 72,73C72,75 71,76 69,76L29,76C27,76 26,75 26,73C26,71 27,70 29,70z" />
+    <path
+        android:fillColor="#FF5DA2"
+        android:pathData="M79,68m-4,0a4,4 0,1 0,8 0a4,4 0,1 0,-8 0" />
+    <path
+        android:fillColor="#32D6C9"
+        android:pathData="M82,80m-3,0a3,3 0,1 0,6 0a3,3 0,1 0,-6 0" />
+
+    <!-- tiny sprocket/perforation dots -->
+    <path android:fillColor="#BBC5D6" android:pathData="M28,86m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0" />
+    <path android:fillColor="#BBC5D6" android:pathData="M36,86m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0" />
+    <path android:fillColor="#BBC5D6" android:pathData="M44,86m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0" />
+    <path android:fillColor="#BBC5D6" android:pathData="M52,86m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0" />
+    <path android:fillColor="#BBC5D6" android:pathData="M60,86m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0" />
+    <path android:fillColor="#BBC5D6" android:pathData="M68,86m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0" />
+    <path android:fillColor="#BBC5D6" android:pathData="M76,86m-1.5,0a1.5,1.5 0,1 0,3 0a1.5,1.5 0,1 0,-3 0" />
+</vector>
